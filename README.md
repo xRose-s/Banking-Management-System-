@@ -54,16 +54,13 @@ ATM-Management-System/
 
 ## ⚙️ Setup and Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/ATM-Management-System.git
-   cd ATM-Management-System
+
    ```
 
-2. **Database Setup:**
+. **Database Setup:**
    - Import the provided SQL scripts in the `src/main/resources/sql/` directory into your MySQL database to create the necessary tables.
 
-3. **Run the Application:**
+ **Run the Application:**
    - Compile the Java code and run the `ATM.java` main class.
 
 ## 📝 Usage
